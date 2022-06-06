@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import Image from "next/image";
 
-import meteor from "../assets/Meteor.svg";
+import meteor from "../assets/meteor.svg";
 
 const Title = styled.p`
   font-family: "Poppins", sans-serif;
